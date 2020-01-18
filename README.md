@@ -1,3 +1,7 @@
+_Fork of https://github.com/rabitt/ismir2017-deepsalience_
+
+_Download the model here: https://beta.replicate.ai/projects/andreasjansson/deep-salience/_
+
 # ismir2017-deepsalience
 
 Companion code for the paper:

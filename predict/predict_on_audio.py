@@ -389,7 +389,7 @@ def infer_example_melody1(model, audio_path):
         pitch_activation_mat, freq_grid, time_grid, thresh=0.3,
         use_neg=True
     )
-    return times, freqs
+    return {"time": times, "freq": freqs}
 
 
 def main(args):
